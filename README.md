@@ -1,5 +1,13 @@
 # Good Reads
 
+### Feed tech
+
+[Strategies for Keeping the LinkedIn Feed Relevant](https://engineering.linkedin.com/blog/2017/03/strategies-for-keeping-the-linkedin-feed-relevant)  
+[FollowFeed: LinkedIn's Feed Made Faster and Smarter](https://engineering.linkedin.com/blog/2016/03/followfeed--linkedin-s-feed-made-faster-and-smarter)  
+[Feeding Frenzy: Selectively Materializing Users’ Event
+Feeds](http://jeffterrace.com/docs/feeding-frenzy-sigmod10-web.pdf)  
+
+
 ### Database engineering
 
 [Fallacies of Distributed Computing Explained](http://www.rgoarchitects.com/Files/fallacies.pdf)  
@@ -23,9 +31,3 @@
 
 [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)  
 
-### Feed tech
-
-[Strategies for Keeping the LinkedIn Feed Relevant](https://engineering.linkedin.com/blog/2017/03/strategies-for-keeping-the-linkedin-feed-relevant)  
-[FollowFeed: LinkedIn's Feed Made Faster and Smarter](https://engineering.linkedin.com/blog/2016/03/followfeed--linkedin-s-feed-made-faster-and-smarter)  
-[Feeding Frenzy: Selectively Materializing Users’ Event
-Feeds](http://jeffterrace.com/docs/feeding-frenzy-sigmod10-web.pdf)  
