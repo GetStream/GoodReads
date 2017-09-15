@@ -1,10 +1,5 @@
 # Good Reads
 
-### Rocksdb articles
-
-[RocksDB in TiKV](https://pingcap.github.io/blog/2017/09/15/rocksdbintikv/)
-
-
 ### Database engineering
 
 [Fallacies of Distributed Computing Explained](http://www.rgoarchitects.com/Files/fallacies.pdf)  
@@ -14,6 +9,10 @@
 [TAO: Facebook’s Distributed Data Store for the Social Graph](https://www.usenix.org/system/files/conference/atc13/atc13-bronson.pdf)  
 [Gorilla: A Fast, Scalable, In-Memory Time Series Database](http://www.vldb.org/pvldb/vol8/p1816-teller.pdf)  
 [The Log-Structured Merge-Tree (LSM-Tree)](http://www.cs.umb.edu/~poneil/lsmtree.pdf)  
+
+#### Rocksdb articles
+
+[RocksDB in TiKV](https://pingcap.github.io/blog/2017/09/15/rocksdbintikv/)
 
 #### Consensus
 
