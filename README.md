@@ -1,5 +1,10 @@
 # Good Reads
 
+### Rocksdb articles
+
+[RocksDB in TiKV](https://pingcap.github.io/blog/2017/09/15/rocksdbintikv/)
+
+
 ### Database engineering
 
 [Fallacies of Distributed Computing Explained](http://www.rgoarchitects.com/Files/fallacies.pdf)  
